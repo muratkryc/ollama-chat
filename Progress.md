@@ -1,46 +1,38 @@
-# Ollama Chat - Geliştirme Süreci
+# Proje İlerleme Durumu
 
-## Tamamlanan Özellikler
-- ✅ Temel sohbet arayüzü
-- ✅ Stream çıktısı desteği
-- ✅ Ollama host ayarı
-- ✅ Otomatik model listesi
-- ✅ Bağlantı durumu göstergesi
-- ✅ Host/model değişikliğinde otomatik yenileme
-- ✅ Dosya yükleme widget'ı
-- ✅ Desteklenen dosya tiplerini belirleme
-- ✅ Yükleme durumu göstergesi
-- ✅ PDF dosyaları için metin çıkarma
-- ✅ Word dosyaları için metin çıkarma
-- ✅ OCR ile görsel metin çıkarma
-- ✅ Çıkarılan metni sohbet bağlamına ekleme
-- ✅ Görsel dosya formatlarını destekleme
-- ✅ Görsel önizleme
-- ✅ OCR entegrasyonu
-- ✅ Görsel analiz sonuçlarını sohbete dahil etme
-- ✅ Yüklenen dosyaların listesi
-- ✅ İşlem durumu göstergeleri
-- ✅ Hata mesajları ve kullanıcı bildirimleri
-- ✅ PostgreSQL vector veritabanı entegrasyonu
-- ✅ Konuşma geçmişi kaydetme
-- ✅ Dosya içeriği kaydetme
-- ✅ Kullanıcı girişi ve yetkilendirme
-- ✅ JWT token tabanlı oturum yönetimi
+## 📅 Son Güncelleme: [Tarih]
 
-## Yapılacaklar
+### ✅ Tamamlanan Görevler
+1. İlk Geliştirme
+   - Streamlit ve LangChain entegrasyonu
+   - PostgreSQL vector veritabanı kurulumu
+   - Dosya yükleme ve işleme özellikleri
+   - Güvenlik özellikleri
 
-### 1. Kullanıcı Deneyimi İyileştirmeleri
-- [ ] Yardım metinleri ve kullanım kılavuzu
-- [ ] Dosya yükleme sınırlamaları
-- [ ] Dosya önizleme özelliği
-- [ ] Yüklenen dosyaları silme özelliği
-- [ ] Konuşma geçmişi görüntüleme
-- [ ] Konuşma başlığı düzenleme
+2. Paket Yönetimi
+   - requirements.txt oluşturuldu
+   - Sistem bağımlılıkları belirlendi
 
-### 2. Test ve Optimizasyon
-- [ ] Farklı dosya tipleriyle test
-- [ ] Performans optimizasyonu
-- [ ] Hata yakalama ve işleme
-- [ ] Bellek kullanımı optimizasyonu
-- [ ] Veritabanı bağlantı havuzu
-- [ ] Veritabanı yedekleme ve geri yükleme 
+3. GitHub Hazırlıkları
+   - .gitignore dosyası oluşturuldu
+   - README.md hazırlandı
+   - LICENSE (MIT) eklendi
+   - İlk commit yapıldı
+   - GitHub repository oluşturuldu ve kodlar yüklendi
+
+### 🔄 Devam Eden Görevler
+1. Uygulama Geliştirme
+   - [ ] Hata yönetimi geliştirmeleri
+   - [ ] Performans optimizasyonları
+   - [ ] Kullanıcı arayüzü iyileştirmeleri
+
+### 📋 Planlanan Görevler
+1. Test ve Dokümantasyon
+   - [ ] Unit testlerin yazılması
+   - [ ] API dokümantasyonunun hazırlanması
+   - [ ] Kullanım kılavuzunun detaylandırılması
+
+2. Deployment
+   - [ ] Docker desteği
+   - [ ] CI/CD pipeline kurulumu
+   - [ ] Production ortamı hazırlıkları 
