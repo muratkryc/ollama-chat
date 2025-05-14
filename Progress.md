@@ -33,16 +33,16 @@
      - [ ] tesseract (OCR için)
      - [ ] tesseract-lang (Türkçe dil desteği)
      - [ ] poppler (PDF işleme)
-     - [ ] libmagic (Dosya tipi tespiti)
+     - [x] libmagic (Dosya tipi tespiti)
    
-   - [ ] Python Bağımlılıkları
-     - [ ] streamlit (Web arayüzü)
-     - [ ] langchain (LLM entegrasyonu)
-     - [ ] psycopg2-binary (PostgreSQL bağlantısı)
-     - [ ] python-dotenv (Çevre değişkenleri)
-     - [ ] pytesseract (OCR işlemleri)
-     - [ ] pdf2image (PDF dönüşümü)
-     - [ ] python-magic (Dosya tipi tespiti)
+   - [x] Python Bağımlılıkları
+     - [x] streamlit (Web arayüzü)
+     - [x] langchain (LLM entegrasyonu)
+     - [x] psycopg2-binary (PostgreSQL bağlantısı)
+     - [x] python-dotenv (Çevre değişkenleri)
+     - [x] pytesseract (OCR işlemleri)
+     - [x] pdf2image (PDF dönüşümü)
+     - [x] python-magic (Dosya tipi tespiti)
      - [ ] pyjwt (Token yönetimi)
 
    - [ ] PostgreSQL Kurulumu
@@ -52,8 +52,8 @@
      - [ ] Kullanıcı yetkilendirme
      - [ ] Vector uzantısını aktifleştirme
 
-   - [ ] Ollama Kurulumu
-     - [ ] Ollama CLI yükleme
+   - [x] Ollama Kurulumu
+     - [x] Ollama CLI yükleme (v0.6.8)
      - [ ] llama2 modelini indirme
      - [ ] API testi
      - [ ] Model optimizasyonu
