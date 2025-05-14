@@ -29,10 +29,34 @@
 
 ### 🔄 Devam Eden Görevler
 1. Sistem Kurulumu
-   - [ ] Homebrew paketlerinin yüklenmesi
-   - [ ] Python bağımlılıklarının yüklenmesi
-   - [ ] PostgreSQL kurulumu ve yapılandırması
-   - [ ] Ollama kurulumu ve model indirme
+   - [ ] Homebrew Paketleri
+     - [ ] tesseract (OCR için)
+     - [ ] tesseract-lang (Türkçe dil desteği)
+     - [ ] poppler (PDF işleme)
+     - [ ] libmagic (Dosya tipi tespiti)
+   
+   - [ ] Python Bağımlılıkları
+     - [ ] streamlit (Web arayüzü)
+     - [ ] langchain (LLM entegrasyonu)
+     - [ ] psycopg2-binary (PostgreSQL bağlantısı)
+     - [ ] python-dotenv (Çevre değişkenleri)
+     - [ ] pytesseract (OCR işlemleri)
+     - [ ] pdf2image (PDF dönüşümü)
+     - [ ] python-magic (Dosya tipi tespiti)
+     - [ ] pyjwt (Token yönetimi)
+
+   - [ ] PostgreSQL Kurulumu
+     - [ ] PostgreSQL 15+ yükleme
+     - [ ] pgvector uzantısı kurulumu
+     - [ ] Veritabanı oluşturma
+     - [ ] Kullanıcı yetkilendirme
+     - [ ] Vector uzantısını aktifleştirme
+
+   - [ ] Ollama Kurulumu
+     - [ ] Ollama CLI yükleme
+     - [ ] llama2 modelini indirme
+     - [ ] API testi
+     - [ ] Model optimizasyonu
 
 2. Uygulama Geliştirme
    - [ ] Hata yönetimi geliştirmeleri
