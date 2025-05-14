@@ -25,6 +25,7 @@
    - .env.example şablonu hazırlandı
    - Hassas bilgiler .env dosyasına taşındı
    - Güvenlik ayarları yapılandırıldı
+   - JWT secret key güvenli şekilde ayarlandı
 
 ### 🔄 Devam Eden Görevler
 1. Sistem Kurulumu
