@@ -20,8 +20,20 @@
    - İlk commit yapıldı
    - GitHub repository oluşturuldu ve kodlar yüklendi
 
+4. Konfigürasyon Yönetimi
+   - config.py dosyası oluşturuldu
+   - .env.example şablonu hazırlandı
+   - Hassas bilgiler .env dosyasına taşındı
+   - Güvenlik ayarları yapılandırıldı
+
 ### 🔄 Devam Eden Görevler
-1. Uygulama Geliştirme
+1. Sistem Kurulumu
+   - [ ] Homebrew paketlerinin yüklenmesi
+   - [ ] Python bağımlılıklarının yüklenmesi
+   - [ ] PostgreSQL kurulumu ve yapılandırması
+   - [ ] Ollama kurulumu ve model indirme
+
+2. Uygulama Geliştirme
    - [ ] Hata yönetimi geliştirmeleri
    - [ ] Performans optimizasyonları
    - [ ] Kullanıcı arayüzü iyileştirmeleri
